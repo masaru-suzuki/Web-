@@ -46,6 +46,16 @@ h6 {
   line-height: 1.5; // 見出し系はパラついて見えるので行間を少し狭める
 }
 
+p {
+  line-height: 1.8;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+
 img {
   display: block;
   height: auto;
